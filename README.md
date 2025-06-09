@@ -39,7 +39,6 @@ It includes various improvements and code cleanups while preserving the base fun
 ### Edited Snippet
 
 VerifyOwnership() {
-    ; Skip all verification checks
     Gosub, @fff@fkk@fffffkkkf@kf@@f#kkk
     Return
 }
