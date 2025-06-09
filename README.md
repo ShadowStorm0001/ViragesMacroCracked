@@ -36,6 +36,14 @@ It includes various improvements and code cleanups while preserving the base fun
 - Script assumes default controls and layout.
 - Script may break if the game updates. Use with caution.
 
+### Edited Snippet
+
+VerifyOwnership() {
+    ; Skip all verification checks
+    Gosub, @fff@fkk@fffffkkkf@kf@@f#kkk
+    Return
+}
+
 ## Credits
 
 - **Original Author**: [VirageRoblox](https://github.com/VirageRoblox/Virage-Grow-A-Garden-Macro)
